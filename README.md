@@ -1,7 +1,7 @@
 # Aidl communication between Client and server App
 ## _AIDL SERVER APP_
 
-## link for AidlServer App is below:
+## link for AidlClient App is below:
 
 https://github.com/sandeepanju/AIDLClient
 
